@@ -15,12 +15,12 @@ BLOG = {
     "bloog_version": "0.8",
     "html_type": "text/html",
     "charset": "utf-8",
-    "title": "Bloog",
+    "title": "Mark Ryall",
     "author": "Mark Ryall",
     # This must be the email address of a registered administrator for the 
     # application due to mail api restrictions.
-    "email": "you@foo.com",
-    "description": "A RESTful Blog/Homepage for Google AppEngine.",
+    "email": "mark.ryall@gmail.com",
+    "description": "Yet another futile attempt at interesting content.",
     "root_url": "http://bloog-markryall.appspot.com",
     "master_atom_url": "/feeds/atom.xml",
     # By default, visitors can comment on article for this many days.
